@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - **Computer Science (Data Science Specialization) @ uWaterloo**
 
+Previously:
+
 - **Data Scientist @ Sagen**
 
 - **Data Science Intern @ Royal Canin**
