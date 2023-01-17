@@ -33,4 +33,6 @@ Previously:
 
 - **Libraries**: pandas, numpy, matplotlib, seaborn, beautifulsoup, scikit-learn, ggplot2, dplyr, caret
 
-- **Data Science & Miscellaneous Technologies**: AWS (Sagemaker, EC2, S3, ECR, EMR), ETL operations, Data science pipeline, Git (version control), Docker, Time series analysis, Experimental design, A/B Testing, Web scraping, Hypothesis Testing, creating/accessing APIs, Excel, Object Oriented Programming, Proxies
+- **Data Science & Miscellaneous Technologies**: AWS (Sagemaker, EC2, S3, ECR, EMR), semi-structured data (NoSQL, json, xml, yaml),
+multithreading/multiprocessing/concurrency, vectorized code, Docker, Git (version control), ETL operations, Data science
+pipeline, Database design, A/B Testing, Web scraping, creating/accessing APIs, Object Oriented Programming, Proxies
